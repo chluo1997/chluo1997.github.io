@@ -14,8 +14,12 @@ sections:
     id: news
     content:
       title: News
+    filters:
+        folders:
+          - services
     design:
       columns: '2'
+      view: showcase
   - block: collection
     id: Publications
     content:
