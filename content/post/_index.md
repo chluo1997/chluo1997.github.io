@@ -1,15 +1,18 @@
 ---
-title: Posts
-cms_exclude: true
+title: News
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+#   4 = Citation
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
-header:
+banner:
   caption: ''
   image: ''
 ---
+
+
+- <2024-05-24 Tue>  I passed my Ph.D. defense.
