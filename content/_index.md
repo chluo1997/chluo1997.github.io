@@ -34,9 +34,7 @@ sections:
     id: Services
     content:
       title: Services
-      filters:
-        folders:
-          - services
+      text: "123"
     design:
       columns: '2'
 ---
