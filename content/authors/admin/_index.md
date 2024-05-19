@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D.in in Computer Science and Engineering
+    - course: Ph.D.in Computer Science and Engineering
       institution: Chinese University of Hong Kong
       year: 2024
     - course: B.Eng. in Information Security
