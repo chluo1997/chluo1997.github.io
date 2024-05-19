@@ -11,6 +11,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: news
+    content:
+      title: News
+      filters:
+        folders:
+          - news
+    design:
+      columns: '2'
+  - block: collection
     id: Publications
     content:
       title: Publications
