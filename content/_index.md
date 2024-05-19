@@ -15,7 +15,7 @@ sections:
     content:
       title: News
       text: |-
-        - <2025-05-14 Tue> I passed my Ph.D. defense at CUHK.
+        - <2024-05-14 Tue> I passed my Ph.D. defense at CUHK.
       filters:
         folders:
           - newss
