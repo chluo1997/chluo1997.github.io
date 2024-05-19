@@ -36,7 +36,6 @@ sections:
       title: Services
       text: |-
         **External Reviewer**
-      bullet_points:
         - IEEE Symposium on Security and Privacy (S&P):
           - 2023
           - 2024
