@@ -4,6 +4,11 @@ date: '2023-11-04'
 summary: Easily blog from Jupyter notebooks!
 ---
 
+# Introduction
 
+Welcome to this blog post created from a Jupyter Notebook!
 
-<2024-05-24 Tue>  I passed my Ph.D. defense.
+## Python Code Example
+
+```python
+print("Hello, Jupyter!")
