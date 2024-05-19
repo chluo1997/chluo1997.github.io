@@ -1,14 +1,4 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: I passed my Ph.D. defense.
+date: '2024-05-14'
 ---
-
-# Introduction
-
-Welcome to this blog post created from a Jupyter Notebook!
-
-## Python Code Example
-
-```python
-print("Hello, Jupyter!")
