@@ -8,4 +8,4 @@ active = true
 weight = 50
 +++
 
--   I passed my Ph.D. defense on May 14th, 2024.
+- <2024-05-24 Tue>  I passed my Ph.D. defense.
