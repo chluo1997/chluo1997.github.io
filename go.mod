@@ -1,4 +1,4 @@
-module github.com/HugoBlox/theme-academic-cv
+module github.com/chluo1997/chluo1997.github.io
 
 go 1.15
 

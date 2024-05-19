@@ -19,13 +19,14 @@ sections:
           - news
     design:
       columns: '2'
+      view: compact
   - block: collection
     id: Publications
     content:
       title: Publications
       filters:
         folders:
-          - publicatio
+          - publication
     design:
       columns: '2'
       view: citation
