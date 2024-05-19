@@ -1,9 +1,11 @@
----
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
----
++++
+title = "News"
+author = ["Changhua Luo"]
+draft = false
+widget = "blank"
+headless = true
+active = true
+weight = 50
++++
 
-
-
-<2024-05-24 Tue>  I passed my Ph.D. defense.
+-   Announcement 1.
