@@ -1,4 +1,16 @@
 ---
-title: I passed my Ph.D. defense.
-date: '2024-05-14'
+bullet_points:
+  - Install Jupyter Notebook and necessary packages:
+    - `pip install jupyter nbconvert`
+  - Create your notebook:
+    - Write your content in a Jupyter Notebook (`.ipynb` file).
+  - Convert notebook to HTML:
+    - `jupyter nbconvert --to html your_notebook.ipynb`
+  - Integrate with your blog platform:
+    - For Jekyll:
+      - Convert HTML to Markdown: `jupyter nbconvert --to markdown your_notebook.ipynb`
+      - Add front matter to the Markdown file
+      - Move the Markdown file to your Jekyll blog's `_posts` directory.
+  - Publish your blog:
+    - Commit and push your changes to your blog repository.
 ---
