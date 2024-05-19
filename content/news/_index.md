@@ -1,5 +1,5 @@
 ---
-title: News
+title: page
 
 # View.
 #   1 = List
