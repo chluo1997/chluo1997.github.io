@@ -16,7 +16,7 @@ sections:
       title: News
       filters:
         folders:
-          - post
+          - news
     design:
       columns: '2'
       view: compact
