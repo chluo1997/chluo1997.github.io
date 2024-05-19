@@ -10,7 +10,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: markdown
     id: news
     content:
       title: News
@@ -30,7 +30,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: markdown
     id: Services
     content:
       title: Services
