@@ -14,9 +14,6 @@ sections:
     id: news
     content:
       title: News
-      filters:
-        folders:
-          - news
     design:
       columns: '2'
   - block: collection
