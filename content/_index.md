@@ -25,7 +25,7 @@ sections:
       title: Publications
       filters:
         folders:
-          - publication
+          - publicatio
     design:
       columns: '2'
       view: citation
