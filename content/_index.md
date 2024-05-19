@@ -34,7 +34,14 @@ sections:
     id: Services
     content:
       title: Services
-      text: "123"
+      text: |-
+        **External Reviewer**
+      bullet_points:
+        - IEEE Symposium on Security and Privacy (S&P):
+          - 2023
+          - 2024
+        - The Annual Computer Security Applications Conference (ACSAC):
+          - 2023
       filters:
         folders:
           - services
