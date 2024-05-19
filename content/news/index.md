@@ -1,6 +1,5 @@
 ---
 title: News
-cms_exclude: true
 
 # View.
 #   1 = List
