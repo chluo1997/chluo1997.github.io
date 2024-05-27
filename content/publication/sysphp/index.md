@@ -50,7 +50,7 @@ featured: false
 
 # Links
 url_pdf: 'papers/sp24_sia.pdf'
-url_code: ' https://github.com/secureweb/symphp'
+url_code: 'https://github.com/secureweb/symphp'
 url_dataset: ''
 url_poster: ''
 url_project: ''
