@@ -43,7 +43,6 @@ tags:
 - ccf-a
 - top
 - paper
-- first-author
 - published
 
 # Display this page in a list of Featured pages?
