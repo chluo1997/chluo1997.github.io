@@ -34,10 +34,10 @@ interests:
   - Web Security
 
 # Education to show in About widget
-education:
+experience:
   courses:
     - course: Ph.D. in Computer Science and Engineering
-      institution: Chinese University of Hong Kong
+      institution: The Chinese University of Hong Kong
       year: 2024
     - course: B.Eng. in Information Security
       institution: Wuhan University
