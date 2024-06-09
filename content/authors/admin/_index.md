@@ -34,7 +34,7 @@ interests:
   - Web Security
 
 # Education to show in About widget
-experience:
+education:
   courses:
     - course: Ph.D. in Computer Science and Engineering
       institution: The Chinese University of Hong Kong
