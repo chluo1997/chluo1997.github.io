@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a postdoctoral scholar in the [Software Security and System Lab](https://i.cs.hku.hk/~cqian/s3.html) at the University of Hong Kong, advised by [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/). I received my Ph.D. degree from the Chinese University of Hong Kong, under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/), and received my B.Eng. from Wuhan University.
+I will be joining the [Software Security and System Lab](https://i.cs.hku.hk/~cqian/s3.html) at the University of Hong Kong as a postdoctoral researcher, under the guidance of [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/). I received my Ph.D. degree from the Chinese University of Hong Kong, under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/), and received my B.Eng. from Wuhan University.
 
 My research interests primarily include program analysis, software security, and web security. Recently, I have mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software (C/C++ and Web applications).
 
