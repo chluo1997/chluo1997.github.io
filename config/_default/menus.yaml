@@ -17,8 +17,8 @@ main:
     url: '#Services'
     weight: 40
   - name: CV
-    url: "cv.pdf"
-    weight: 40
+    url: uploads/resume.pdf
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
