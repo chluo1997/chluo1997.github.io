@@ -15,7 +15,7 @@ banner:
 ---
 
 
-- <2024-07-16 Tue>  I joined HKu as a postdoctoral researcher.
+- <2024-07-16 Tue>  I joined HKU as a postdoctoral researcher.
 - <2024-05-24 Tue>  I passed my Ph.D. defense.
 
 
