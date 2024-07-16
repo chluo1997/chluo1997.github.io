@@ -15,6 +15,7 @@ sections:
     content:
       title: News
       text: |-
+        - <2024-07-16 Tue> I joined HKU as a postdoctoral researcher.
         - <2024-05-14 Tue> I passed my Ph.D. defense at CUHK.
       filters:
         folders:
