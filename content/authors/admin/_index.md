@@ -17,7 +17,7 @@ last_name: Luo
 superuser: true
 
 # Role/position/tagline
-# role: Assistant Professor 
+role: Postdoctoral Research
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chluo@cse.cuhk.edu.hk'
+    link: 'mailto:chluo@hku.hk'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=DnC0s1gAAAAJ&hl=zh-CN&oi=sra
@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-I will be joining the [Software Security and System Lab](https://i.cs.hku.hk/~cqian/s3.html) at the University of Hong Kong as a postdoctoral researcher, under the guidance of [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/). I received my Ph.D. degree from the Chinese University of Hong Kong, under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/), and received my B.Eng. from Wuhan University.
+I am a postdoctoral researcher at the [Software Security and System Lab](https://i.cs.hku.hk/~cqian/s3.html) at the University of Hong Kong, working under the guidance of [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/). I received my Ph.D. degree from the Chinese University of Hong Kong, where I was supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/), and received my B.Eng. from Wuhan University.
 
 My research interests primarily include program analysis, software security, and web security. Recently, I have mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software (C/C++ and Web applications).
 
