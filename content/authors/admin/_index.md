@@ -17,7 +17,7 @@ last_name: Luo
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 # organizations:
