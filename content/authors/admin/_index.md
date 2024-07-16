@@ -20,9 +20,9 @@ superuser: true
 role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-#  - name: Wuhan University
-#    url: https://www.whu.edu.cn/
+organizations:
+  - name: HKU
+    url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests primarily lie in web security, program analysis and software security. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software (C/C++ and Web applications).
