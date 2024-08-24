@@ -70,7 +70,7 @@ I am a postdoctoral researcher at the [Software Security and System Lab](https:/
 
 My research interests primarily include program analysis, software security, and web security. Recently, I have mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software (C/C++ and Web applications).
 
-I will join the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/) as a tenure-track assistant professor in January 2025. I am looking for **self-motivated** Ph.D. and master students. If you are interested, feel free to contact me.
+I will join the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/) as a tenure-track assistant professor in January 2025. <span style="color: red;">I am looking for <strong>self-motivated</strong> Ph.D. and master students. If you are interested, feel free to contact me.</span>
 
 
 {style="text-align: justify;"}
