@@ -47,8 +47,6 @@ sections:
 
           In Proceedings of 46th International Conference on Software Engineering (ICSE) (research track), April 2024.
 
-          <span style="color: red;">&#9733; ACM CCS 2022 Best Paper Honorable Mention, 20/971=2.06%.</span>
-
         - **SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration**. 
 
           <u>Changhua Luo</u>, Wei Meng, Penghui Li.
@@ -60,6 +58,8 @@ sections:
           <u>Changhua Luo</u>, Penghui Li, Wei Meng. 
 
           In Proceedings of The 29th ACM Conference on Computer and Communications Security (CCS), Nov 2022.
+
+          <span style="color: red;">&#9733; ACM CCS 2022 Best Paper Honorable Mention, 20/971=2.06%.</span>
 
         - **On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution**. 
 
