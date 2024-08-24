@@ -53,7 +53,7 @@ sections:
 
           In Proceedings of The 44th IEEE Symposium on Security and Privacy (Oakland), May 2023.
 
-        - **TChecker: Precise Static Inter-Procedural Analysis for Detecting Taint-Style Vulnerabilities in PHP Applications**. 
+        - **TChecker: Precise Static Inter-Procedural Analysis for Detecting Taint-Style Vulnerabilities in PHP Applications**. [PDF](papers/ccs22_tchecker.pdf)[code](https://github.com/cuhk-seclab/TChecker)
 
           <u>Changhua Luo</u>, Penghui Li, Wei Meng. 
 
