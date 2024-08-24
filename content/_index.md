@@ -35,19 +35,19 @@ sections:
 
           To appear in Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS).
 
-        - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**. 
+        - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**. [[PDF]](papers/sp24_sia.pdf)[[code]](https://github.com/secureweb/symphp)
 
           Penghui Li, Wei Meng, Mingxue Zhang, Chenlin Wang, <u>Changhua Luo</u>. 
 
           In Proceedings of The 45th IEEE Symposium on Security and Privacy (Oakland), May 2024.
 
-        - **Strengthening Supply Chain Security with Fine-grained Safe Patch Identification**. 
+        - **Strengthening Supply Chain Security with Fine-grained Safe Patch Identification**. [[PDF]](papers/icse24_spatch.pdf)[[code]](https://github.com/cuhk-seclab/SPatch)
 
           <u>Changhua Luo</u>, Wei Meng, Shuai Wang. 
 
           In Proceedings of 46th International Conference on Software Engineering (ICSE) (research track), April 2024.
 
-        - **SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration**. 
+        - **SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration**. [[PDF]](papers/sp23_selectfuzz.pdf)[[code]](https://github.com/cuhk-seclab/SelectFuzz)
 
           <u>Changhua Luo</u>, Wei Meng, Penghui Li.
 
@@ -61,7 +61,7 @@ sections:
 
           <span style="color: red;">&#9733; ACM CCS 2022 Best Paper Honorable Mention, 20/971=2.06%.</span>
 
-        - **On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution**. 
+        - **On the Feasibility of Automated Built-in Function Modeling for PHP Symbolic Execution**. [[PDF]](papers/www21_xsym.pdf)[[code]](https://github.com/cuhk-seclab/xsym)
 
           Penghui Li, Wei Meng, Kangjie Lu, <u>Changhua Luo</u>. 
 
