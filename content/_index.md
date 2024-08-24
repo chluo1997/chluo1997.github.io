@@ -80,7 +80,7 @@ sections:
         - IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024
 
         **External Reviewer**
-        - IEEE Symposium on Security and Privacy (S&P), 2023, 2024
+        - IEEE Symposium on Security and Privacy (Oakland), 2023, 2024
         - The ACM Conference on Computer and Communications Security (CCS), 2021, 2022, 2023, 2024
         - The Web Conference (WWW), 2020, 2021, 2022, 2024
         - The ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2021, 2022
