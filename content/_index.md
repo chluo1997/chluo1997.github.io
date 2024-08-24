@@ -29,7 +29,7 @@ sections:
     content:
       title: Publications
       text: |-
-        - **Augmenting PoC Exploit Generation for Node.js Applications using Test Suites**.
+        - **Augmenting PoC Exploit Generation for Node.js Applications Using Test Suites**.
 
           <u>Changhua Luo</u>, Penghui Li, Wei Meng, Chao Zhang. 
 
