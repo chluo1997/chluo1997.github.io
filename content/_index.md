@@ -40,7 +40,7 @@ sections:
 
           Penghui Li, Wei Meng, Mingxue Zhang, Chenlin Wang, <u>Changhua Luo</u>. 
 
-          In Proceedings of The 45nd IEEE Symposium on Security and Privacy, May 2024.
+          In Proceedings of The 45nd IEEE Symposium on Security and Privacy (Oakland), May 2024.
 
         - **Strengthening Supply Chain Security with Fine-grained Safe Patch Identification**. 
 
@@ -52,7 +52,7 @@ sections:
 
           <u>Changhua Luo</u>, Wei Meng, Penghui Li.
 
-          In Proceedings of The 44nd IEEE Symposium on Security and Privacy, May 2023.
+          In Proceedings of The 44nd IEEE Symposium on Security and Privacy (Oakland), May 2023.
 
         - **TChecker: Precise Static Inter-Procedural Analysis for Detecting Taint-Style Vulnerabilities in PHP Applications**. 
 
