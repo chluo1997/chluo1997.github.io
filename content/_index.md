@@ -29,7 +29,7 @@ sections:
     content:
       title: Publications
       text: |-
-        - **Augmenting PoC Exploit Generation for Node.js Applications Using Test Suites**.
+        - **Test Suites Guided Vulnerability Validation for Node.js Applications**. [[PDF]](papers/ccs24_jsgo.pdf)[[code]](https://github.com/WHU-seclab/JSGo)
 
           <u>Changhua Luo</u>, Penghui Li, Wei Meng, Chao Zhang. 
 
