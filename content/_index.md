@@ -32,7 +32,7 @@ sections:
       text: |-
         - **Predator: Efficient Dynamic Validation for Web Application Vulnerabilities**.
 
-          Chenlin Wang, Wei Meng, Changhua Luo, and Penghui Li.
+          Chenlin Wang, Wei Meng, <u>Changhua Luo</u>, and Penghui Li.
 
           To appear in Proceedings of The 46st IEEE Symposium on Security and Privacy (Oakland), May 2025.
 
