@@ -40,7 +40,7 @@ sections:
 
           <u>Changhua Luo</u>, Penghui Li, Wei Meng, Chao Zhang. 
 
-          To appear in Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS).
+          To appear in Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS), Nov 2024.
 
         - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**. [[PDF]](papers/sp24_sia.pdf)[[code]](https://github.com/secureweb/symphp)
 
