@@ -34,7 +34,7 @@ sections:
 
           Chenlin Wang, Wei Meng, <u>Changhua Luo</u>, and Penghui Li.
 
-          To appear in Proceedings of The 46st IEEE Symposium on Security and Privacy (Oakland), May 2025.
+          To appear in Proceedings of The 46th IEEE Symposium on Security and Privacy (Oakland), May 2025.
 
         - **Test Suites Guided Vulnerability Validation for Node.js Applications**. [[PDF]](papers/ccs24_jsgo.pdf)[[code]](https://github.com/WHU-seclab/JSGo)
 
