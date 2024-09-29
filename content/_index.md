@@ -15,8 +15,8 @@ sections:
     content:
       title: News
       text: |-
-        - <2024-09-10 Tue> One paper accepted to [Oakland 2025](https://sp2025.ieee-security.org/cfpapers.html).
-        - <2024-08-24 Sat> One paper accepted to [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
+        - <2024-09> One paper accepted to [Oakland 2025](https://sp2025.ieee-security.org/cfpapers.html).
+        - <2024-08> One paper accepted to [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
         - <2024-07-16 Tue> I joined HKU as a postdoctoral researcher.
         - <2024-05-14 Tue> I passed my Ph.D. defense at CUHK.
       filters:
