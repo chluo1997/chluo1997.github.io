@@ -15,6 +15,7 @@ sections:
     content:
       title: News
       text: |-
+        - <2024-11> One paper accepted to [NDSS 25](https://www.ndss-symposium.org/ndss2025/).
         - <2024-09> One paper accepted to [Oakland 2025](https://sp2025.ieee-security.org/cfpapers.html).
         - <2024-08> One paper accepted to [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
         - <2024-07-16 Tue> I joined HKU as a postdoctoral researcher.
@@ -30,17 +31,26 @@ sections:
     content:
       title: Publications
       text: |-
-        - **Predator: Efficient Dynamic Validation for Web Application Vulnerabilities**.
+
+        * Denotes the Corresponding Author.
+
+        - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**.
 
           Chenlin Wang, Wei Meng, <u>Changhua Luo</u>, and Penghui Li.
 
           To appear in Proceedings of The 46th IEEE Symposium on Security and Privacy (Oakland), May 2025.
 
+        - **Automatic Library Fuzzing through API Relation Evolvement**.
+
+          Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, <u>Changhua Luo</u>*, Hao Zhou, and Chenxiong Qian*.
+
+          To appear in Proceedings of The 32nd Annual Network and Distributed System Security Symposium (NDSS), Feb 2025.
+
         - **Test Suites Guided Vulnerability Validation for Node.js Applications**. [[PDF]](papers/ccs24_jsgo.pdf)[[code]](https://github.com/WHU-seclab/JSGo)
 
           <u>Changhua Luo</u>, Penghui Li, Wei Meng, Chao Zhang. 
 
-          To appear in Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS), Oct 2024.
+          In Proceedings of The 31st ACM Conference on Computer and Communications Security (CCS), Oct 2024.
 
         - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**. [[PDF]](papers/sp24_sia.pdf)[[code]](https://github.com/secureweb/symphp)
 
@@ -52,7 +62,7 @@ sections:
 
           <u>Changhua Luo</u>, Wei Meng, Shuai Wang. 
 
-          In Proceedings of 46th International Conference on Software Engineering (ICSE) (research track), April 2024.
+          In Proceedings of 46th International Conference on Software Engineering (ICSE), research track, April 2024.
 
         - **SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration**. [[PDF]](papers/sp23_selectfuzz.pdf)[[code]](https://github.com/cuhk-seclab/SelectFuzz)
 
@@ -72,7 +82,7 @@ sections:
 
           Penghui Li, Wei Meng, Kangjie Lu, <u>Changhua Luo</u>. 
 
-          In Proceedings of the 30th Web Conference (WWW), Feb 2021.
+          In Proceedings of the 30th Web Conference (WWW), security track, Feb 2021.
       filters:
         folders:
           - publications
