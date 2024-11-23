@@ -32,7 +32,7 @@ sections:
       title: Publications
       text: |-
 
-        * Denotes the Corresponding Author.
+        \* Denotes the Corresponding Author.
 
         - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**.
 
@@ -42,7 +42,7 @@ sections:
 
         - **Automatic Library Fuzzing through API Relation Evolvement**.
 
-          Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, <u>Changhua Luo</u>*, Hao Zhou, and Chenxiong Qian*.
+          Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, <u>Changhua Luo</u>\*, Hao Zhou, and Chenxiong Qian*.
 
           To appear in Proceedings of The 32nd Annual Network and Distributed System Security Symposium (NDSS), Feb 2025.
 
