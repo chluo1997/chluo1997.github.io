@@ -68,7 +68,7 @@ highlight_name: true
 
 I am a postdoctoral researcher at the [Software Security and System Lab](https://i.cs.hku.hk/~cqian/s3.html) at the University of Hong Kong, working under the guidance of [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/). I received my Ph.D. degree from the Chinese University of Hong Kong, where I was supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/), and received my B.Eng. from Wuhan University.
 
-My research interests primarily lie in program analysis, software security, and web security. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software. My works have discovered and fixed more than one hundred of high severity security vulnerabilities (overflow and arbitrary write) in important software infrastructure including OpenSSL, Poppler, and V8. 
+My research interests primarily lie in program analysis, software security, and web security. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software. My main-author works have discovered and fixed more than one hundred of high severity security vulnerabilities (overflow and arbitrary write) in important software infrastructure including OpenSSL, Poppler, and V8. 
 
 I will join the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/) as a tenure-track assistant professor in January 2025. <span style="color: red;">I am looking for <strong>highly motivated</strong> Ph.D. and master students. If you have an interest or experience in security (through CTF or security research), feel free to contact me. </span>
 
