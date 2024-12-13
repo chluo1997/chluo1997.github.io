@@ -34,13 +34,13 @@ sections:
 
         \* Denotes the Corresponding Author.
 
-        - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**.
+        - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**. [[PDF]](papers/sp25_predator.pdf)[[code]](https://github.com/cuhk-seclab/Predator)
 
           Chenlin Wang, Wei Meng, <u>Changhua Luo</u>, and Penghui Li.
 
           To appear in Proceedings of The 46th IEEE Symposium on Security and Privacy (Oakland), May 2025.
 
-        - **Automatic Library Fuzzing through API Relation Evolvement**.
+        - **Automatic Library Fuzzing through API Relation Evolvement**. [[PDF]](papers/ndss25_nexzzer.pdf)[[code]](https://figshare.com/s/9539927ac84ee6a7ac14)
 
           Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, Hao Zhou, <u>Changhua Luo</u>\*, and Chenxiong Qian*.
 
