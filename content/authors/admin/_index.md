@@ -17,12 +17,12 @@ last_name: Luo
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Assistent Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HKU
-    url: https://www.hku.hk/
+  - name: WHU
+    url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests primarily lie in software security and program analysis,. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software.
@@ -66,9 +66,9 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the [Software Security and System Lab](https://i.cs.hku.hk/~cqian/s3.html) at the University of Hong Kong, working with [Prof. Chenxiong Qian](https://i.cs.hku.hk/~cqian/). I received my Ph.D. degree from the Chinese University of Hong Kong, where I was supervised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/), and received my B.Eng. from Wuhan University.
+I am a tenure-track assistant professor in the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/).  Prior to that, I was a postdoctoral scholar in the [HKUS3Lab](https://i.cs.hku.hk/~cqian/) at HKU. I received my Ph.D. from the Chinese University of Hong Kong under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/)and received my B.Eng. from Wuhan University.
 
-My research interests include software security and program analysis. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software. My main-author works have discovered and fixed more than one hundred of high severity security vulnerabilities in important software infrastructure including OpenSSL, Safari, and V8. These contributions have been recognized and rewarded with vulnerability bounties from Google and Apple.
+My research interests include software security and program analysis. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software. My main-author works have discovered and fixed more than one hundred of high severity security vulnerabilities in important software infrastructure including OpenSSL, Safari, and V8. These contributions have been recognized and rewarded with vulnerability bounties from Google and Apple. 
 
-I will join the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/) as a tenure-track assistant professor in January 2025. <span style="color: red;">I am looking for <strong>highly motivated</strong> Ph.D. and master students. If you have an interest or experience in security (through CTF or security research), feel free to contact me. </span>
+<span style="color: red;">I am actively seeking <strong>highly motivated</strong> Ph.D. and master’s students. If you are interested in security and have experience through CTFs or security research, please feel free to reach out to me.</span>
 
