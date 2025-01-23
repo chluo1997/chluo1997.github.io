@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-I am a tenure-track assistant professor in the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/).  Prior to that, I was a postdoctoral scholar in the [S3Lab](https://i.cs.hku.hk/~cqian/) at HKU. I received my Ph.D. from the Chinese University of Hong Kong under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/)and received my B.Eng. from Wuhan University.
+I am a tenure-track assistant professor in the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/).  Prior to that, I was a postdoctoral scholar in the [S3Lab](https://i.cs.hku.hk/~cqian/) at HKU. I received my Ph.D. from the Chinese University of Hong Kong under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/) and received my B.Eng. from Wuhan University.
 
 My research interests include software security and program analysis. Recently, I mainly worked on developing techniques for automatically detecting and patching vulnerabilities in software. My main-author works have discovered and fixed more than one hundred of high severity security vulnerabilities in important software infrastructure including OpenSSL, Safari, and V8. These contributions have been recognized and rewarded with vulnerability bounties from Google and Apple. 
 
