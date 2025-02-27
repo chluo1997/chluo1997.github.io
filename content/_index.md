@@ -15,6 +15,7 @@ sections:
     content:
       title: News
       text: |-
+        - <2024-02> I joined WHU as a tenure-track assistant professor.
         - <2024-11> One paper accepted to [NDSS 25](https://www.ndss-symposium.org/ndss2025/).
         - <2024-09> One paper accepted to [Oakland 2025](https://sp2025.ieee-security.org/cfpapers.html).
         - <2024-08> One paper accepted to [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).

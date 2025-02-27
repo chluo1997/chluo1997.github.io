@@ -21,7 +21,7 @@ role: Assistent Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: WHU
+  - name: Wuhan University
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,13 +51,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:chdeluo@gmail.com'
+    link: 'mailto:chluo2502@whu.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=DnC0s1gAAAAJ&hl=zh-CN&oi=sra
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/chluo1997
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
