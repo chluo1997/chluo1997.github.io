@@ -96,6 +96,8 @@ sections:
       text: |-
         **Technical Program Committee**
         - IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024
+        - The ACM International Workshop on Fuzzing (FUZZING), 2025
+        - IEEE Transactions on Software Engineering (TSE), 2025
 
         **External Reviewer**
         - IEEE Symposium on Security and Privacy (Oakland), 2023, 2024
