@@ -63,7 +63,7 @@ social:
 highlight_name: true
 ---
 
-I am a tenure-track assistant professor in the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/).  Prior to that, I was a postdoctoral scholar in the [S3Lab](https://i.cs.hku.hk/~cqian/) at HKU. I received my Ph.D. from the Chinese University of Hong Kong under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/) and received my B.Eng. from Wuhan University.
+I am a tenure-track assistant professor in the [Institute for Math & AI](https://imai.whu.edu.cn/index.htm) at [Wuhan University](https://www.whu.edu.cn/).  Prior to that, I was a postdoctoral scholar in the [System Security](https://i.cs.hku.hk/~cqian/) at HKU. I received my Ph.D. from the Chinese University of Hong Kong under the supervision of [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/) and received my B.Eng. from Wuhan University.
 
 My research focuses on program analysis and software security.  I prioritize analyzing and addressing **security problems with real-world implications**. My first- and corresponding-author papers have discovered over 100 high-severity security vulnerabilities in real-world software infrastructure such as Chrome and OpenSSL. These efforts have been recognized with vulnerability bounty awards exceeding *200,000* USD from major companies such as Google.
 
