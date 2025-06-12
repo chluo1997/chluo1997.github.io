@@ -15,6 +15,7 @@ sections:
     content:
       title: News
       text: |-
+        - <2025-06> One paper accepted to USENIX Security.
         - <2025-02> I joined WHU as a tenure-track assistant professor.
         - <2024-11> One paper accepted to [NDSS 25](https://www.ndss-symposium.org/ndss2025/).
         - <2024-09> One paper accepted to [Oakland 2025](https://sp2025.ieee-security.org/cfpapers.html).
@@ -35,17 +36,23 @@ sections:
 
         \* Denotes the Corresponding Author.
 
+        - **IDFuzz: Intelligent Directed Grey-box Fuzzing**.
+
+          Yiyang Chen, Chao Zhang*, Long Wang*, Wenyu Zhu, <u>Changhua Luo</u>, Nuoqi Gui, Zheyu Ma, Xingjian Zhang, and Bingkai Su
+
+          In Proceedings of The 34th USENIX Security Symposium, August 2025.
+
         - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**. [[PDF]](papers/sp25_predator.pdf)[[code]](https://github.com/cuhk-seclab/Predator)
 
           Chenlin Wang, Wei Meng, <u>Changhua Luo</u>, and Penghui Li.
 
-          To appear in Proceedings of The 46th IEEE Symposium on Security and Privacy (Oakland), May 2025.
+          In Proceedings of The 46th IEEE Symposium on Security and Privacy (Oakland), May 2025.
 
         - **Automatic Library Fuzzing through API Relation Evolvement**. [[PDF]](papers/ndss25_nexzzer.pdf)[[code]](https://figshare.com/s/9539927ac84ee6a7ac14)
 
           Jiayi Lin, Qingyu Zhang, Junzhe Li, Chenxin Sun, Hao Zhou, <u>Changhua Luo</u>\*, and Chenxiong Qian*.
 
-          To appear in Proceedings of The 32nd Annual Network and Distributed System Security Symposium (NDSS), Feb 2025.
+          In Proceedings of The 32nd Annual Network and Distributed System Security Symposium (NDSS), Feb 2025.
 
         - **Test Suites Guided Vulnerability Validation for Node.js Applications**. [[PDF]](papers/ccs24_jsgo.pdf)[[code]](https://github.com/WHU-seclab/JSGo)
 
