@@ -39,7 +39,7 @@ sections:
 
         - **Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly**.
 
-          Jiayi Lin, Changhua Luo*, Mingxue Zhang, Lanteng Lin, Penghui Li, Chenxiong Qian.
+          Jiayi Lin, <u>Changhua Luo*</u>, Mingxue Zhang, Lanteng Lin, Penghui Li, Chenxiong Qian.
 
           In Proceedings of 48th International Conference on Software Engineering (ICSE), research track, April 2026.
 
