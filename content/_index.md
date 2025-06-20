@@ -15,6 +15,7 @@ sections:
     content:
       title: News
       text: |-
+        - <2025-06> One paper accepted to ICSE.
         - <2025-06> One paper accepted to USENIX Security.
         - <2025-02> I joined WHU as a tenure-track assistant professor.
         - <2024-11> One paper accepted to [NDSS 25](https://www.ndss-symposium.org/ndss2025/).
@@ -35,6 +36,12 @@ sections:
       text: |-
 
         \* Denotes the Corresponding Author.
+
+        - **Fuzzing JavaScript Engines by Fusing JavaScript and WebAssembly**.
+
+          Jiayi Lin, Changhua Luo*, Mingxue Zhang, Lanteng Lin, Penghui Li, Chenxiong Qian.
+
+          In Proceedings of 48th International Conference on Software Engineering (ICSE), research track, April 2026.
 
         - **IDFuzz: Intelligent Directed Grey-box Fuzzing**.
 
