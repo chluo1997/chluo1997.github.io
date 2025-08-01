@@ -67,5 +67,5 @@ I am a tenure-track assistant professor in the [Institute for Math & AI](https:/
 
 My research focuses on program analysis and software security.  I prioritize analyzing and addressing **security problems with real-world implications**. My first- and corresponding-author papers have discovered over 100 high-severity security vulnerabilities in real-world software infrastructure such as Chrome and OpenSSL. These efforts have been recognized with vulnerability bounty awards exceeding *200,000* USD from major companies such as Google.
 
-<span style="color: red;">I am actively seeking <strong>highly motivated</strong> Ph.D. and master’s students. If you are interested in security and have experience through CTF or security research, please feel free to reach out to me.</span>
+<span style="color: red;">I am actively seeking <strong>highly motivated</strong> Ph.D. and master’s students. If you are interested in security and have experience through CTF or security research, please feel free to reach out to me at chluo2502@whu.edu.cn.</span>
 
