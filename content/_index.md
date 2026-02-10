@@ -106,18 +106,11 @@ sections:
   - block: collection
     id: Services
     content:
-      title: Services
+      title: Teaching
       text: |-
-        **Technical Program Committee**
-        - IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024
-        - The ACM International Workshop on Fuzzing (FUZZING), 2025
-        - IEEE Transactions on Software Engineering (TSE), 2025
-
-        **External Reviewer**
-        - IEEE Symposium on Security and Privacy (Oakland), 2023, 2024
-        - The ACM Conference on Computer and Communications Security (CCS), 2021, 2022, 2023, 2024
-        - The Web Conference (WWW), 2020, 2021, 2022, 2024
-        - The ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2021, 2022
+        **Teaching**
+        - Software security (2025 Fall)
+        - Software security experiment (2025 Fall)
       filters:
         folders:
           - services1
