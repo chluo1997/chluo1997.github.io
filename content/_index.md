@@ -106,11 +106,17 @@ sections:
   - block: collection
     id: Services
     content:
-      title: Teaching
+      title: Services
       text: |-
         **Teaching**
         - Software security (2025 Fall)
         - Software security experiment (2025 Fall)
+        **Technical Program Committee**
+        - The Web Conference, 2026
+        - IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024
+        - The ACM International Workshop on Fuzzing (FUZZING), 2025
+        - IEEE Transactions on Software Engineering (TSE), 2025
+
       filters:
         folders:
           - services1
