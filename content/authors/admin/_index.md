@@ -30,8 +30,8 @@ bio: My research interests primarily lie in software security and program analys
 # Interests to show in About widget
 interests:
   - Software Security
-  - Program Analysis
   - AI Agent Security
+  - Program Analysis
 
 # Education to show in About widget
 education:
