@@ -15,14 +15,16 @@ sections:
     content:
       title: News
       text: |-
+        - <2025-12> Promoted to tenure-track associate professor in the IMAI. 
+        - <2025-11> Selected for the Overseas Young Talents Program (海外优青).
         - <2025-06> One paper accepted to ICSE.
         - <2025-06> One paper accepted to USENIX Security.
-        - <2025-02> I joined WHU as a tenure-track assistant professor.
+        - <2025-02> Joined WHU as a tenure-track assistant professor.
         - <2024-11> One paper accepted to [NDSS 25](https://www.ndss-symposium.org/ndss2025/).
         - <2024-09> One paper accepted to [Oakland 2025](https://sp2025.ieee-security.org/cfpapers.html).
         - <2024-08> One paper accepted to [CCS 2024](https://www.sigsac.org/ccs/CCS2024/).
-        - <2024-07-16 Tue> I joined HKU as a postdoctoral researcher.
-        - <2024-05-14 Tue> I passed my Ph.D. defense at CUHK.
+        - <2024-07-16 Tue> Joined HKU as a postdoctoral researcher.
+        - <2024-05-14 Tue> Successfully defended my Ph.D. thesis at CUHK.
       filters:
         folders:
           - newss
@@ -111,7 +113,7 @@ sections:
         **Teaching**
         - Software security (2025 Fall)
         - Software security experiment (2025 Fall)
-        
+
         **Technical Program Committee**
         - The Web Conference, 2026
         - IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2024
